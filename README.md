@@ -1,3 +1,7 @@
+#SS
+![image](https://github.com/Isthifa/Digitalclock-react/assets/87200953/7c9d100b-2aea-4fd2-bc73-bb66337cf0c8)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
